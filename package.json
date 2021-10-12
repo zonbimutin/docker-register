@@ -1,0 +1,24 @@
+{
+  "name": "docker-register",
+  "version": "1.0.0",
+  "description": "docker-register",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zonbimutin/docker-register.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zonbimutin/docker-register/issues"
+  },
+  "homepage": "https://github.com/zonbimutin/docker-register#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
