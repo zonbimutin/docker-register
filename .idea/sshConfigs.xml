@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="51.158.68.24" id="289a110f-e1a7-4f27-abe4-62e72fe67b99" keyPath="$USER_HOME$/.ssh/zonbi-vps" port="22" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</project>

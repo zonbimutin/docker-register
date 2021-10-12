@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dc2370a2-e7df-4a79-be29-74ef50731a7f" name="zonbi_vps">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="51.158.68.24" port="22" sshConfigId="289a110f-e1a7-4f27-abe4-62e72fe67b99" sshConfig="root@51.158.68.24:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
